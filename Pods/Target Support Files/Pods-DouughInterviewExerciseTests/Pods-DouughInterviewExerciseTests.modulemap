@@ -1,0 +1,6 @@
+framework module Pods_DouughInterviewExerciseTests {
+  umbrella header "Pods-DouughInterviewExerciseTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

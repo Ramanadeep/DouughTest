@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DouughInterviewExercise/Views/Controllers/UsersListViewController.swift"
+            timestampString = "569251930.959236"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "changeColor(sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DouughInterviewExercise.UsersListViewController.changeColor(sender: __C.UISegmentedControl) -&gt; ()"
+                  moduleName = "DouughInterviewExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramansingh/Documents/PracticeProjects/Douugh/DouughInterviewExercise/DouughInterviewExercise/Views/Controllers/UsersListViewController.swift"
+                  timestampString = "569249207.297085"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "1762">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 (DouughInterviewExercise.User, DouughInterviewExercise.User) -&gt; Swift.Bool in DouughInterviewExercise.UsersListViewController.changeColor(sender: __C.UISegmentedControl) -&gt; ()"
+                  moduleName = "DouughInterviewExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramansingh/Documents/PracticeProjects/Douugh/DouughInterviewExercise/DouughInterviewExercise/Views/Controllers/UsersListViewController.swift"
+                  timestampString = "569249207.300432"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DouughInterviewExercise/Views/Controllers/UsersListViewController.swift"
+            timestampString = "569251930.959354"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "changeColor(sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DouughInterviewExercise.UsersListViewController.changeColor(sender: __C.UISegmentedControl) -&gt; ()"
+                  moduleName = "DouughInterviewExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramansingh/Documents/PracticeProjects/Douugh/DouughInterviewExercise/DouughInterviewExercise/Views/Controllers/UsersListViewController.swift"
+                  timestampString = "569249207.308521"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "959">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (DouughInterviewExercise.User, DouughInterviewExercise.User) -&gt; Swift.Bool in DouughInterviewExercise.UsersListViewController.changeColor(sender: __C.UISegmentedControl) -&gt; ()"
+                  moduleName = "DouughInterviewExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramansingh/Documents/PracticeProjects/Douugh/DouughInterviewExercise/DouughInterviewExercise/Views/Controllers/UsersListViewController.swift"
+                  timestampString = "569249207.311656"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DouughInterviewExercise/Views/Controllers/UserDetailsViewController.swift"
+            timestampString = "569251930.95945"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
